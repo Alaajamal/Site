@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    background-color: #EEE;
+    font-family: Arial, 'Times New Roman', Times, serif;
+}
+.page_head,
+.page_description{
+    text-align: center;
+}
+.page_head{
+    font-size: 40px;
+}
+.page_description{
+    font-size: 22px;
+    margin: 10px 0 40px;
+}
+    
